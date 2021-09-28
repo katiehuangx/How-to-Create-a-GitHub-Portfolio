@@ -16,13 +16,11 @@ Let's understand some of the alien terms that you will see on GitHub.
 
 `Repository/repo` means `folder`. It is similar to creating folders on your computer. Each repository represents one folder. You can create multiple repositories for different projects. 
 
-`Fork` means `copy`. By `forking` another person's repo, you are making a copy of that person's repo where you can edit the contents and any changes will only be reflected in your copy of the repo and will not be reflected in other person's repo.
-
-`README.md` is a default note, or summary usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project and provide a summary of the analysis. It can be anything, really - so feel free to write it up!
+`README.md` is a default note, or summary that is usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything - so feel free to write it.
 
 **Why I created this repo?**
 - I was once intimidated by GitHub myself. I signed up for an account in July and left it aside as I did not understand how it works.
-- Since then, I have learnt how to use it (and I'm quite obsessed with repos now 😆), I would love to share this knowledge with everyone. 🙂
+- Since then, I learnt how to use it (I'm quite obsessed with repos now 😆), so I would love to share this knowledge with everyone. 🙂
 
 ## Table of Contents
 - [How to Create Your Profile?](#how-to-create-your-profile)
@@ -35,13 +33,13 @@ Let's understand some of the alien terms that you will see on GitHub.
 
 <img width="1203" alt="Screenshot 2021-09-28 at 9 26 28 PM" src="https://user-images.githubusercontent.com/81607668/135101992-9590fe01-fbbf-4c5e-9092-f0eed8114334.png">
 
-1. Firstly, **click on `New Repository`** on top right of the page. 
+**1. Click on `New Repository` on top right of the page. **
 
 <img width="257" alt="image" src="https://user-images.githubusercontent.com/81607668/135068335-12538e85-8090-4f27-8232-47bfcc15b2c2.png">
 
-2. Next, **create a new repository** with the _**exact name as your username**_.
+**2. Next, create a new repository with the _exact name as your username_.**
 
-My username is "**katiehuangx**", hence I created a new repository "**katiehuangx**". This repository will contain the write-up of your profile.
+My username is "**katiehuangx**", so I created a new repository "**katiehuangx**". This repository will contain the write-up of your profile.
 
 <img width="741" alt="Screenshot 2021-09-28 at 6 15 33 PM" src="https://user-images.githubusercontent.com/81607668/135102196-6eeea30a-a874-4fb3-a4f6-25db97d6c825.png">
 
@@ -49,20 +47,19 @@ The format of the profile is a `Markdown (.md)` file. The default name is `READM
 
 <img width="720" alt="Screenshot 2021-09-28 at 6 18 40 PM" src="https://user-images.githubusercontent.com/81607668/135102549-9bc47d7f-d803-4cc2-a8a2-361c900a6b96.png">
 
-3. To **edit a Markdown file**, hover over the pencil ✏️ icon and click `Edit this file`.
+**3. To edit a Markdown file, hover over the pencil ✏️ icon and click `Edit this file`.**
 
 <img width="354" alt="Screenshot 2021-09-28 at 10 29 37 PM" src="https://user-images.githubusercontent.com/81607668/135107847-f86bef5c-2f26-4942-9de2-104c446825e1.png">
 
-**Now you can start to write up your profile! 😄**
+**Now you can start to write your profile! 😄**
 
 ### What to write in your profile?
 
-It's entirely up to you and your creativity! Most people would include
+It's entirely up to you and your creativity! Most people would include:
 - Introduction
-- Skills (i.e. Data Analysis, SQL, Python, Tableau, Excel, etc)
-- Fancier things (i.e. visitor count, preview of other websites, etc (I will not teach this as I'm not good in techy stuffs 😆)
-- Social media accounts
-- Projects you're proud of! 😄
+- Skills (i.e. Data Analysis, SQL, Python, Tableau, etc)
+- Fancier things (i.e. visitor count, preview of other websites, etc
+- Projects that you're proud of
 
 For further reading, check out:
 - [GitHub Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
@@ -72,7 +69,7 @@ For further reading, check out:
 
 ## How to Customize Markdown files?
 
-GitHub's Markdown guides are excellent and omprehensive enough to customize your Markdown files. This is where I learn to customize mine too!
+GitHub's Markdown guides are excellent and comprehensive enough to customize your Markdown files. This is where I learn to customize mine too. 🙂
 
 - How to customize Markdown files - [Github Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - How to create tables - [GitHub Organizing information with tables](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
@@ -80,34 +77,35 @@ GitHub's Markdown guides are excellent and omprehensive enough to customize your
 - **Bonus tip**: How to add emoji? 🌟🙌🏻🙋🏻‍♀️📚
   - For Windows: Windows logo key + . (period)
   - For Mac: Control + Command
+
 ***
 
 ## How to Create New Repository?
 
 Creating a new repo is as easy as creating your profile.
 
-Firstly, click on `New Repository` on top right of the page. 
+**1. Firstly, click on `New Repository` on top right of the page. **
 
 <img width="257" alt="image" src="https://user-images.githubusercontent.com/81607668/135068335-12538e85-8090-4f27-8232-47bfcc15b2c2.png">
 
-This is the default setting. If you forgot to tick `Add README.md`, you can create it in the repo itself later.
+This is the default setting. If you forgot to tick `Add a README.md`, you can create it in the repo itself later.
 
 <img width="615" alt="Screenshot 2021-09-28 at 9 55 20 PM" src="https://user-images.githubusercontent.com/81607668/135103549-c7d87461-adb5-4b6c-b65b-72842e2f374c.png">
 
-And, it's done! You have created your first repo! 
+And, it's done. You have created your first repo! 
 
-### How to Create Subfolders in your Repository?
+### Extra: How to Create Subfolders in your Repository?
 
-1. Go on the right side of the page, click `Add File` and `Create New File`.
+**1. Navigate to the right side of the page, click `Add File` and `Create New File`.**
 
 <img width="879" alt="Screenshot 2021-09-28 at 10 41 20 PM" src="https://user-images.githubusercontent.com/81607668/135109960-52721c55-810e-47d9-a463-8c19d9ece947.png">
 
-2. Next, `name your file` followed by the extension `.md`, `.sql`, or any format.
+**2. `Name your file` followed by the extension `.md`, `.sql`, or any format.**
 
 <img width="610" alt="Screenshot 2021-09-28 at 10 42 05 PM" src="https://user-images.githubusercontent.com/81607668/135110652-99d4b7da-9339-4324-b564-5d217bf4cfbd.png">
 
 ***
 
-That's the end of my simple guide. If you like this guide, please give this repo a Star 🌟 
+If you like this guide, please give this repo a Star 🌟 
 
 Happy GitHub-ing! 🙆🏻‍♀️
