@@ -98,10 +98,16 @@ And, it's done! You have created your first repo!
 
 ### How to Create Subfolders in your Repository?
 
+1. Go on the right side of the page, click `Add File` and `Create New File`.
+
 <img width="879" alt="Screenshot 2021-09-28 at 10 41 20 PM" src="https://user-images.githubusercontent.com/81607668/135109960-52721c55-810e-47d9-a463-8c19d9ece947.png">
 
-<img width="926" alt="Screenshot 2021-09-28 at 10 41 05 PM" src="https://user-images.githubusercontent.com/81607668/135109987-97d56103-f287-490a-9419-fddf1f9cba36.png">
+2. Next, `name your file` followed by the extension `.md`, `.sql`, or any format.
+
+<img width="610" alt="Screenshot 2021-09-28 at 10 42 05 PM" src="https://user-images.githubusercontent.com/81607668/135110652-99d4b7da-9339-4324-b564-5d217bf4cfbd.png">
 
 ***
 
-Happy GitHub-ing! If you like this guide, please give this repo a Star 🌟 
+That's the end of my simple guide. If you like this guide, please give this repo a Star 🌟 
+
+Happy GitHub-ing! 🙆🏻‍♀️
