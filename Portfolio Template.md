@@ -1,14 +1,18 @@
 # Portfolio Template
 
-_Click on "Edit new file" to view the codes. You can edit the codes and click "Preview" to view real-time transformation of your codes in Markdown format. 🙂_
+On the right side, you will see a pencil icon. 
+
+Click on `Edit new file` to view the codes. You can edit the codes and click `Preview` to view real-time transformation of your codes in Markdown format. 🙂
+
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/81607668/135071056-c7bb7056-58c2-41cd-8000-04d8ef451056.png">
 
 ## How to Create Your Personal Profile?
 
-Firstly, click on "New Repository" on your top right. 
+Firstly, click on `New Repository` on your top right. 
 
 <img width="257" alt="image" src="https://user-images.githubusercontent.com/81607668/135068335-12538e85-8090-4f27-8232-47bfcc15b2c2.png">
 
-Next, create a new repository with the exact text as your username. My username is "katiehuangx", hence I created a new repository titled "katiehuangx". 
+Next, create a new repository with the exact text as your username. My username is "**katiehuangx**", hence I created a new repository titled "**katiehuangx**". 
 
 <img width="741" alt="image" src="https://user-images.githubusercontent.com/81607668/135068602-575ffddb-44f9-41d1-b701-f92bd04c2bc6.png">
 
