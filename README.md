@@ -8,6 +8,7 @@ It's perfect for
 - Beginners in data science who wants to showcase samples of work, or projects.
 - Serves as a digital resume and proof you have the skills in your resume. 
 - A fun way to keep track of your projects.
+- You do not need to understand how to code to do this, trust me. I'm a non-coder myself.
 
 ## Introduction 
 
@@ -26,9 +27,9 @@ Let's understand some of the alien terms that you will see on GitHub.
 ***
 
 # Table of Contents
-- [## How to Create Your Profile?](#how-to-create-your-profile-1)
-- [## How to Customize Markdown files?](#how-to-customize-markdown-files-1)
-- [## How to Create New Repository?](#how-to-create-new-repository-1)
+- [How to Create Your Profile?](#how-to-create-your-profile-1)
+- [How to Customize Markdown files?](#how-to-customize-markdown-files-1)
+- [How to Create New Repository?](#how-to-create-new-repository-1)
 
 ***
 
