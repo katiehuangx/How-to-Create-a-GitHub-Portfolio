@@ -33,7 +33,7 @@ Let's understand some of the alien terms that you will see on GitHub.
 
 <img width="1203" alt="Screenshot 2021-09-28 at 9 26 28 PM" src="https://user-images.githubusercontent.com/81607668/135101992-9590fe01-fbbf-4c5e-9092-f0eed8114334.png">
 
-**1. Click on `New Repository` on top right of the page. **
+**1. Click on `New Repository` on top right of the page.**
 
 <img width="257" alt="image" src="https://user-images.githubusercontent.com/81607668/135068335-12538e85-8090-4f27-8232-47bfcc15b2c2.png">
 
