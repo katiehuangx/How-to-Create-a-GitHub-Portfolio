@@ -4,20 +4,12 @@
 
 Hi there, I'm Katie! 🙋🏻‍♀️
 
-This is a fuss-free, simple guide to create your GitHub portfolio. 
+This is a **fuss-free, simple** guide to create your GitHub portfolio. 
 
 It's perfect for
 - Beginners in data science who wants to showcase samples of work, or projects.
-- Serves as a digital resume and proof you have the skills in your resume. 
+- Serves as a digital resume and proof that you have the skills in your resume. 
 - A fun way to keep track of your projects.
-
-## Introduction 
-
-Let's understand some of the alien terms that you will see on GitHub.
-
-`Repository/repo` means `folder`. It is similar to creating folders on your computer. Each repository represents one folder. You can create multiple repositories for different projects. 
-
-`README.md` is a default note, or summary that is usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything - so feel free to write it.
 
 **Why I created this repo?**
 - I was once intimidated by GitHub myself. I signed up for an account in July and left it aside as I did not understand how it works.
@@ -27,6 +19,14 @@ Let's understand some of the alien terms that you will see on GitHub.
 - [How to Create Your Profile?](#how-to-create-your-profile)
 - [How to Customize Markdown files?](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
+
+## Introduction 
+
+Let's understand some of the alien terms that you will see on GitHub.
+
+`Repository/repo` means `folder`. It is similar to creating folders on your computer. Each repository represents one folder. You can create multiple repositories for different projects. 
+
+`README.md` is a default note, or summary that is usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything - so feel free to write it.
 
 ## How to Create Your Profile?
 
