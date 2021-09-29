@@ -1,5 +1,7 @@
 # 📚 How to Create a GitHub Portfolio
 
+## _[In Progress]_
+
 Hi there, I'm Katie! 🙋🏻‍♀️
 
 This is a fuss-free, simple guide to create your GitHub portfolio. 
