@@ -78,7 +78,7 @@ GitHub's Markdown guides are excellent and comprehensive enough to customize you
 - How to colour code your SQL, Python, etc code blocks - [GitHub Creating and highlighting code blocks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 - **Bonus tip**: How to add emoji? 🌟🙌🏻🙋🏻‍♀️📚
   - For Windows: Windows logo key + . (period)
-  - For Mac: Control + Command
+  - For Mac: Control + Command + Spacebar
 
 ***
 
