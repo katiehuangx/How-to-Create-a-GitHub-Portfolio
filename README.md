@@ -28,25 +28,25 @@ Let's understand some of the alien terms that you will see on GitHub.
 
 `README.md` is a default note, or summary that is usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything - so feel free to write it.
 
+***
+
 ## How to Create Your Profile?
 
 **Are you interested in creating a Profile that appears on your GitHub homepage, _like mine_?**
 
 <kbd><img width="1203" alt="Screenshot 2021-09-28 at 9 26 28 PM" src="https://user-images.githubusercontent.com/81607668/135101992-9590fe01-fbbf-4c5e-9092-f0eed8114334.png"></kbd>
 
-
-**1. Click on `New Repository` on the top right of the page.**
+**Step 1: Click on `New Repository` on the top right of the page.**
 
 <kbd><img width="257" alt="image" src="https://user-images.githubusercontent.com/81607668/135068335-12538e85-8090-4f27-8232-47bfcc15b2c2.png"></kbd>
 
+**Step 2: Create a new repository with the _exact name as your username_.**
 
-**2. Next, create a new repository with the _exact name as your username_.**
-
-My username is "**katiehuangx**", so I created a new repository "**katiehuangx**". This repository will contain the write-up of your profile.
+My username is "**katiehuangx**", so I created a new repository named "**katiehuangx**". This repository will contain the write-up of your profile.
 
 <kbd><img width="741" alt="Screenshot 2021-09-28 at 6 15 33 PM" src="https://user-images.githubusercontent.com/81607668/135102196-6eeea30a-a874-4fb3-a4f6-25db97d6c825.png"></kbd>
 
-The format of the profile is a `Markdown (.md)` file. The default name is `README.md` so you can leave it as that. 
+The format of the profile is `Markdown (.md)` file and its default name is `README.md`, so you can leave it as that. 
 
 <kbd><img width="720" alt="Screenshot 2021-09-28 at 6 18 40 PM" src="https://user-images.githubusercontent.com/81607668/135102549-9bc47d7f-d803-4cc2-a8a2-361c900a6b96.png"></kbd>
 
