@@ -91,9 +91,17 @@ Then, I **copy the image file** and **paste in the Markdown file** itself. Give 
 
 <kbd><img width="619" alt="image" src="https://user-images.githubusercontent.com/81607668/135247149-4cddb744-cc6e-4b20-92fa-fd768da95d7f.png"></kbd>
 
-**Click `Preview` to view the image.**
+**Uploading screenshot...**
 
-<kbd><img width="476" alt="Screenshot 2021-09-29 at 5 58 48 PM" src="https://user-images.githubusercontent.com/81607668/135247448-bd6e95b9-e14d-4abb-8c71-0cffbab0f710.png"></kbd>
+<kbd><img width="417" alt="image" src="https://user-images.githubusercontent.com/81607668/135276525-a3b870af-8ece-494f-b1cb-be843ce18602.png"></kbd>
+
+**Successfully uploaded screenshot!**
+
+<kbd><img width="1099" alt="image" src="https://user-images.githubusercontent.com/81607668/135276620-e8212cea-cccc-4532-969a-241f107b459b.png"></kbd>
+
+**Click `Preview` to check your newly uploaded image.**
+
+<kbd><img width="476" alt="Screenshot 2021-09-29 at 5 58 48 PM" src="https://user-images.githubusercontent.com/81607668/135276747-73e27341-bfcf-4b32-9a8f-92deedc067c5.png"></kbd>
 
 ### 📚 Add Table of Contents
 
