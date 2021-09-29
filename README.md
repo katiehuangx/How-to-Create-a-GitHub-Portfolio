@@ -38,7 +38,7 @@ You do not need to download the GitHub Desktop for this. Your browser would do t
 
 <kbd><img width="1203" alt="Screenshot 2021-09-28 at 9 26 28 PM" src="https://user-images.githubusercontent.com/81607668/135101992-9590fe01-fbbf-4c5e-9092-f0eed8114334.png"></kbd>
 
-**Step 1: Click on `New Repository` on the top right of the page.**
+**Step 1: Click on `+` and `New Repository` at top right of the page.**
 
 <kbd><img width="257" alt="image" src="https://user-images.githubusercontent.com/81607668/135068335-12538e85-8090-4f27-8232-47bfcc15b2c2.png"></kbd>
 
@@ -52,7 +52,7 @@ The format of the file is `Markdown (.md)`. Its default name is `README.md`, so 
 
 <kbd><img width="720" alt="Screenshot 2021-09-28 at 6 18 40 PM" src="https://user-images.githubusercontent.com/81607668/135102549-9bc47d7f-d803-4cc2-a8a2-361c900a6b96.png"></kbd>
 
-**Step 3: To edit your Profile or Markdown file, hover over the pencil ✏️ icon on your right and click `Edit this file`.**
+**Step 3: To edit your Profile or Markdown file, hover over the `pencil ✏️` icon on your right and click `Edit this file`.**
 
 <kbd><img width="354" alt="Screenshot 2021-09-28 at 10 29 37 PM" src="https://user-images.githubusercontent.com/81607668/135107847-f86bef5c-2f26-4942-9de2-104c446825e1.png"></kbd>
 
@@ -61,7 +61,7 @@ The format of the file is `Markdown (.md)`. Its default name is `README.md`, so 
 ### What to write in your profile?
 
 It's entirely up to you and your creativity! Most people would include:
-- Introduction
+- An introduction of yourself
 - Skills like Data Analysis, SQL, Python, Tableau, Web Development, etc
 - Fancier things like visitor count, clickable icons, etc (can't help you with this as I've not learn it yet 😅)
 - Projects that you're proud of
@@ -74,7 +74,7 @@ For further reading, check out:
 
 ## How to Customize Markdown files?
 
-GitHub's Markdown guides are excellent and comprehensive enough, yet easily understandable to customize your Markdown files. This is where I learn to customize mine too. 🙂
+GitHub's Markdown guides are excellent and comprehensive enough, yet easily understandable. This is where I learn to customize mine too. 🙂
 
 - How to customize Markdown files - [Github Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - How to create tables - [GitHub Organizing information with tables](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
@@ -111,14 +111,14 @@ To ensure that you retrieve the correct `(#xx-xx-xx)`:
 **Click on the chain logo beside your title. Right click and open in new tab.**
 <img width="508" alt="Screenshot 2021-09-29 at 6 04 22 PM" src="https://user-images.githubusercontent.com/81607668/135248350-9ba54965-863e-4408-8e02-eb8cd596c2a8.png">
 
-**Scroll all the way to the end of the new tab link and copy the highlighted `##xx-xx-xx`.**
+**Navigate to the website link and scroll all the way to the end and copy the highlighted `##xx-xx-xx`.**
 <img width="678" alt="Screenshot 2021-09-29 at 6 04 57 PM" src="https://user-images.githubusercontent.com/81607668/135248359-2ed3ea2e-2a8b-4f07-8f7c-80b053d42497.png">
 
-Do not include emojis in your title, otherwise the links in the table of contents will not work.
+Do not include emojis in your title, otherwise the links in the table of contents would not work.
 
 ### 🧱 Colour Code the Code Blocks
 
-If you've seen my [8 Week SQL Challenge repo](https://github.com/katiehuangx/8-Week-SQL-Challenge), I use colour codes for my SQL syntax. It's very easy to do and makes your syntax look more professional too.
+If you've seen my [8 Week SQL Challenge repo](https://github.com/katiehuangx/8-Week-SQL-Challenge), I use colour codes for my SQL syntax. It's very easy to do and makes your syntax look professional too.
 
 ````
 ```sql -- Add 3 backticks followed by sql
@@ -128,7 +128,7 @@ WHERE student_name = 'Katie';
 ``` -- Add 3 backticks
 ````
 
-This is how it will look like:
+This is how it will turn out:
 ```sql
 SELECT *
 FROM student_info
@@ -141,7 +141,7 @@ WHERE student_name = 'Katie';
 
 Creating a new repo is as easy as creating your profile.
 
-**Step 1: Click on `New Repository` on the top right of the page.**
+**Step 1: Click on `New Repository` at the top right of the page.**
 
 <kbd><img width="257" alt="image" src="https://user-images.githubusercontent.com/81607668/135068335-12538e85-8090-4f27-8232-47bfcc15b2c2.png"></kbd>
 
@@ -151,9 +151,11 @@ The image below is the default setting. If you forgot to tick `Add a README.md`,
 
 And, it's done. You have created your first repo! 😎
 
+*** 
+
 ### Extra: How to Create Subfolders in your Repository?
 
-**Step 1: Navigate to the right side of the page. Click `Add File` and then, `Create New File`.**
+**Step 1: Navigate to the right side of the page. Click `Add File` and `Create New File`.**
 
 <kbd><img width="879" alt="Screenshot 2021-09-28 at 10 41 20 PM" src="https://user-images.githubusercontent.com/81607668/135109960-52721c55-810e-47d9-a463-8c19d9ece947.png"></kbd>
 
@@ -163,13 +165,13 @@ And, it's done. You have created your first repo! 😎
 
 ### Extra: How to Upload Projects in your Repository?
 
-**Step 1: Navigate to the right side of the page. Click `Add File` and then, `Create New File`.**
+**Step 1: Navigate to the right side of the page. Click `Add File` and `Upload File`.**
 
 <kbd><img width="397" alt="image" src="https://user-images.githubusercontent.com/81607668/135250389-cece0d81-19fa-4021-beb1-2bd4fb3bc09c.png"></kbd>
 
 **Step 2: `Choose your file`, wait for file to load completely and click `Commit changes`**
 
-Once your file is uploaded completely, it will look like the one in my screenshot below. Bigger file size would take a longer time to load, so be patient. 🙂
+Once your file is uploaded completely, it will look like the one in my screenshot below. Bigger file size would take a longer time to load. 🙂
 
 <kbd><img width="1052" alt="Screenshot 2021-09-29 at 6 19 34 PM" src="https://user-images.githubusercontent.com/81607668/135250662-8d19c9b6-7b57-4e15-90da-efd174d5d8a0.png"></kbd>
 
