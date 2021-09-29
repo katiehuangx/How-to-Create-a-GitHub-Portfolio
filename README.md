@@ -58,7 +58,7 @@ The format of the file is `Markdown (.md)`. Its default name is `README.md`, so 
 
 **Now you can start to write your profile! 😄 Once you're happy with the contents, scroll down and click `Commit changes`.**
 
-### What to write in your profile?
+### 📝 What to write in your profile?
 
 It's entirely up to you and your creativity! Most people would include:
 - An introduction of yourself
