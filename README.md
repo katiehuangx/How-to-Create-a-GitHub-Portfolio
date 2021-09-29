@@ -95,7 +95,7 @@ Then, I **copy the image file** and **paste in the Markdown file** itself. Give 
 
 ### Include a Table of Contents
 
-Below is the code block for my table of contents. To ensure that you retrieve the correct `(#xx-xx-xx)`, 
+Below is the code block for my table of contents. 
 
 ````
 ## Table of Contents
