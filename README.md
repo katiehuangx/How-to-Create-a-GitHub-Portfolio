@@ -18,6 +18,8 @@ It's perfect for
 - [How to Customize Markdown files?](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
 
+_You can learn how to do this neat table of contents too! It's very easy. 😉_
+
 ## Introduction 
 
 Let's understand some of the alien terms that you will see on GitHub.
@@ -79,6 +81,39 @@ GitHub's Markdown guides are excellent and comprehensive enough, yet easily unde
   - For Windows: Windows logo key + . (period)
   - For Mac: Control + Command + Spacebar
 
+### Add Images
+
+Normally what I would do is take a screenshot, or download the image. 
+
+Then, I **copy the image file** and **paste in the Markdown file** itself. Give it around 3-5 seconds to load the image. 
+
+<kbd><img width="619" alt="image" src="https://user-images.githubusercontent.com/81607668/135247149-4cddb744-cc6e-4b20-92fa-fd768da95d7f.png"></kbd>
+
+**Click `Preview` to view the image.**
+
+<kbd><img width="476" alt="Screenshot 2021-09-29 at 5 58 48 PM" src="https://user-images.githubusercontent.com/81607668/135247448-bd6e95b9-e14d-4abb-8c71-0cffbab0f710.png"></kbd>
+
+### Include a Table of Contents
+
+Below is the code block for my table of contents. To ensure that you retrieve the correct `(#xx-xx-xx)`, 
+
+````
+## Table of Contents
+- [How to Create Your Profile?](#how-to-create-your-profile)
+- [How to Customize Markdown files?](#how-to-customize-markdown-files)
+- [How to Create New Repository?](#how-to-create-new-repository)
+````
+
+To ensure that you retrieve the correct `(#xx-xx-xx)`:
+
+**Click on the chain logo beside your title. Right click and open in new tab.**
+<img width="508" alt="Screenshot 2021-09-29 at 6 04 22 PM" src="https://user-images.githubusercontent.com/81607668/135248350-9ba54965-863e-4408-8e02-eb8cd596c2a8.png">
+
+**Scroll all the way to the end of the new tab link and copy the highlighted `##xx-xx-xx`.**
+<img width="678" alt="Screenshot 2021-09-29 at 6 04 57 PM" src="https://user-images.githubusercontent.com/81607668/135248359-2ed3ea2e-2a8b-4f07-8f7c-80b053d42497.png">
+
+Do not include emojis in your title, otherwise the links in the table of contents will not work.
+
 ***
 
 ## How to Create New Repository?
@@ -101,12 +136,12 @@ And, it's done. You have created your first repo! 😎
 
 <kbd><img width="879" alt="Screenshot 2021-09-28 at 10 41 20 PM" src="https://user-images.githubusercontent.com/81607668/135109960-52721c55-810e-47d9-a463-8c19d9ece947.png"></kbd>
 
-**Step 2: Name your file followed by the extension `.md`, `.sql`, or any format.**
+**Step 2: Name your file followed by the extension `.md`, or your desired format.**
 
 <kbd><img width="610" alt="Screenshot 2021-09-28 at 10 42 05 PM" src="https://user-images.githubusercontent.com/81607668/135110652-99d4b7da-9339-4324-b564-5d217bf4cfbd.png"></kbd>
 
 ***
 
-Now go and have fun creating your Github profile and start adding your projects! 
+Now go and have fun creating your Github profile and start adding projects! 
 
 If you like this guide, please give this repo a Star 🌟 Happy GitHub-ing! 🙆🏻‍♀️
