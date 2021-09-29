@@ -130,7 +130,7 @@ The image below is the default setting. If you forgot to tick `Add a README.md`,
 
 And, it's done. You have created your first repo! 😎
 
-### Extra Tip: How to Create Subfolders in your Repository?
+### Extra: How to Create Subfolders in your Repository?
 
 **Step 1: Navigate to the right side of the page. Click `Add File` and then, `Create New File`.**
 
@@ -139,6 +139,20 @@ And, it's done. You have created your first repo! 😎
 **Step 2: Name your file followed by the extension `.md`, or your desired format.**
 
 <kbd><img width="610" alt="Screenshot 2021-09-28 at 10 42 05 PM" src="https://user-images.githubusercontent.com/81607668/135110652-99d4b7da-9339-4324-b564-5d217bf4cfbd.png"></kbd>
+
+### Extra: How to Upload Projects in your Repository?
+
+**Step 1: Navigate to the right side of the page. Click `Add File` and then, `Create New File`.**
+
+<kbd><img width="397" alt="image" src="https://user-images.githubusercontent.com/81607668/135250389-cece0d81-19fa-4021-beb1-2bd4fb3bc09c.png"></kbd>
+
+**Step 2: `Choose your file`, wait for file to load completely and click `Commit changes`**
+
+Once your file is uploaded completely, it will look like the one in my screenshot below. Bigger file size would take a longer time to load, so be patient. 🙂
+
+<kbd><img width="1052" alt="Screenshot 2021-09-29 at 6 19 34 PM" src="https://user-images.githubusercontent.com/81607668/135250662-8d19c9b6-7b57-4e15-90da-efd174d5d8a0.png"></kbd>
+
+And, that's it! It's as simple as that!
 
 ***
 
