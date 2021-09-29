@@ -28,6 +28,8 @@ Let's understand some of the alien terms that you will see on GitHub.
 
 `README.md` is a default note, or summary that is usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything - so feel free to write it.
 
+You do not need to download the GitHub Desktop for this. Your browser would do the job just fine. 🙂
+
 ***
 
 ## How to Create Your Profile?
@@ -54,14 +56,14 @@ The format of the file is `Markdown (.md)`. Its default name is `README.md`, so 
 
 <kbd><img width="354" alt="Screenshot 2021-09-28 at 10 29 37 PM" src="https://user-images.githubusercontent.com/81607668/135107847-f86bef5c-2f26-4942-9de2-104c446825e1.png"></kbd>
 
-**Now you can start to write your profile! 😄**
+**Now you can start to write your profile! 😄 Once you're happy with the contents, scroll down and click `Commit changes`.**
 
 ### What to write in your profile?
 
 It's entirely up to you and your creativity! Most people would include:
 - Introduction
 - Skills like Data Analysis, SQL, Python, Tableau, Web Development, etc
-- Fancier things like visitor count, clickable icons, etc
+- Fancier things like visitor count, clickable icons, etc (can't help you with this as I've not learn it yet 😅)
 - Projects that you're proud of
 
 For further reading, check out:
@@ -81,7 +83,7 @@ GitHub's Markdown guides are excellent and comprehensive enough, yet easily unde
   - For Windows: Windows logo key + . (period)
   - For Mac: Control + Command + Spacebar
 
-### Add Images
+### 🌌 Add Images
 
 Normally what I would do is take a screenshot, or download the image. 
 
@@ -93,7 +95,7 @@ Then, I **copy the image file** and **paste in the Markdown file** itself. Give 
 
 <kbd><img width="476" alt="Screenshot 2021-09-29 at 5 58 48 PM" src="https://user-images.githubusercontent.com/81607668/135247448-bd6e95b9-e14d-4abb-8c71-0cffbab0f710.png"></kbd>
 
-### Include a Table of Contents
+### 📚 Add Table of Contents
 
 Below is the code block for my table of contents. 
 
@@ -113,6 +115,25 @@ To ensure that you retrieve the correct `(#xx-xx-xx)`:
 <img width="678" alt="Screenshot 2021-09-29 at 6 04 57 PM" src="https://user-images.githubusercontent.com/81607668/135248359-2ed3ea2e-2a8b-4f07-8f7c-80b053d42497.png">
 
 Do not include emojis in your title, otherwise the links in the table of contents will not work.
+
+### 🧱 Colour Code the Code Blocks
+
+If you've seen my [8 Week SQL Challenge repo](https://github.com/katiehuangx/8-Week-SQL-Challenge), I use colour codes for my SQL syntax. It's very easy to do and makes your syntax look more professional too.
+
+````
+```sql -- Add 3 backticks followed by sql
+SELECT *
+FROM student_info
+WHERE student_name = 'Katie';
+``` -- Add 3 backticks
+````
+
+This is how it will look like:
+```sql
+SELECT *
+FROM student_info
+WHERE student_name = 'Katie';
+```
 
 ***
 
