@@ -46,11 +46,11 @@ My username is "**katiehuangx**", so I created a new repository named "**katiehu
 
 <kbd><img width="741" alt="Screenshot 2021-09-28 at 6 15 33 PM" src="https://user-images.githubusercontent.com/81607668/135102196-6eeea30a-a874-4fb3-a4f6-25db97d6c825.png"></kbd>
 
-The format of the profile is `Markdown (.md)` file and its default name is `README.md`, so you can leave it as that. 
+The format of the file is `Markdown (.md)`. Its default name is `README.md`, so you can leave it as that. 
 
 <kbd><img width="720" alt="Screenshot 2021-09-28 at 6 18 40 PM" src="https://user-images.githubusercontent.com/81607668/135102549-9bc47d7f-d803-4cc2-a8a2-361c900a6b96.png"></kbd>
 
-**3. To edit a Markdown file, hover over the pencil ✏️ icon and click `Edit this file`.**
+**Step 3: To edit your Profile or Markdown file, hover over the pencil ✏️ icon on your right and click `Edit this file`.**
 
 <kbd><img width="354" alt="Screenshot 2021-09-28 at 10 29 37 PM" src="https://user-images.githubusercontent.com/81607668/135107847-f86bef5c-2f26-4942-9de2-104c446825e1.png"></kbd>
 
@@ -60,24 +60,24 @@ The format of the profile is `Markdown (.md)` file and its default name is `READ
 
 It's entirely up to you and your creativity! Most people would include:
 - Introduction
-- Skills (i.e. Data Analysis, SQL, Python, Tableau, etc)
-- Fancier things (i.e. visitor count, preview of other websites, etc
+- Skills like Data Analysis, SQL, Python, Tableau, Web Development, etc
+- Fancier things like visitor count, clickable icons, etc
 - Projects that you're proud of
 
 For further reading, check out:
-- [GitHub Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- [GitHub Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) - Detailed guide on creating your profile
 - Get some inspiration from [this post](https://github.com/abhisheknaiidu/awesome-github-profile-readme) for awesome GitHub profiles.
 
 ***
 
 ## How to Customize Markdown files?
 
-GitHub's Markdown guides are excellent and comprehensive enough to customize your Markdown files. This is where I learn to customize mine too. 🙂
+GitHub's Markdown guides are excellent and comprehensive enough, yet easily understandable to customize your Markdown files. This is where I learn to customize mine too. 🙂
 
 - How to customize Markdown files - [Github Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - How to create tables - [GitHub Organizing information with tables](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-- How to colour code your SQL, Python, etc code blocks - [GitHub Creating and highlighting code blocks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
-- **Bonus tip**: How to add emoji? 🌟🙌🏻🙋🏻‍♀️📚
+- How to colour code your SQL, Python, etc code blocks (This is my favourite part!) - [GitHub Creating and highlighting code blocks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
+- **Bonus tip**: How to add emojis? 🌟🙌🏻🙋🏻‍♀️📚🌤🐶
   - For Windows: Windows logo key + . (period)
   - For Mac: Control + Command + Spacebar
 
@@ -87,28 +87,28 @@ GitHub's Markdown guides are excellent and comprehensive enough to customize you
 
 Creating a new repo is as easy as creating your profile.
 
-**1. Firstly, click on `New Repository` on top right of the page. **
+**Step 1: Click on `New Repository` on the top right of the page.**
 
 <kbd><img width="257" alt="image" src="https://user-images.githubusercontent.com/81607668/135068335-12538e85-8090-4f27-8232-47bfcc15b2c2.png"></kbd>
 
-This is the default setting. If you forgot to tick `Add a README.md`, you can create it in the repo itself later.
+The image below is the default setting. If you forgot to tick `Add a README.md`, you can create the file separately in the repo later.
 
 <kbd><img width="615" alt="Screenshot 2021-09-28 at 9 55 20 PM" src="https://user-images.githubusercontent.com/81607668/135103549-c7d87461-adb5-4b6c-b65b-72842e2f374c.png"></kbd>
 
-And, it's done. You have created your first repo! 
+And, it's done. You have created your first repo! 😎
 
-### Extra: How to Create Subfolders in your Repository?
+### Extra Tip: How to Create Subfolders in your Repository?
 
-**1. Navigate to the right side of the page, click `Add File` and `Create New File`.**
+**Step 1: Navigate to the right side of the page. Click `Add File` and then, `Create New File`.**
 
 <kbd><img width="879" alt="Screenshot 2021-09-28 at 10 41 20 PM" src="https://user-images.githubusercontent.com/81607668/135109960-52721c55-810e-47d9-a463-8c19d9ece947.png"></kbd>
 
-**2. `Name your file` followed by the extension `.md`, `.sql`, or any format.**
+**Step 2: Name your file followed by the extension `.md`, `.sql`, or any format.**
 
 <kbd><img width="610" alt="Screenshot 2021-09-28 at 10 42 05 PM" src="https://user-images.githubusercontent.com/81607668/135110652-99d4b7da-9339-4324-b564-5d217bf4cfbd.png"></kbd>
 
 ***
 
-If you like this guide, please give this repo a Star 🌟 
+Now go and have fun creating your Github profile and start adding your projects! 
 
-Happy GitHub-ing! 🙆🏻‍♀️
+If you like this guide, please give this repo a Star 🌟 Happy GitHub-ing! 🙆🏻‍♀️
