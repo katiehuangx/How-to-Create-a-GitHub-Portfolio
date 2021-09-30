@@ -198,7 +198,7 @@ And, that's it! It's as simple as that!
 
 ## How to Fork a Repository?
 
-Let'say I'm checking out this awesome repo and I'm curious to see how he does the html and all the cool stuffs.
+Let'say I'm checking out this awesome repo and I'm curious to see how he adds the icons, Twitter button, and all the cool stuffs.
 
 <kbd><img width="1419" alt="Screenshot 2021-09-30 at 10 50 08 AM" src="https://user-images.githubusercontent.com/81607668/135378085-28f76e0e-9449-4bd9-8ceb-47a387b7788d.png"></kbd>
 
