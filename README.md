@@ -17,6 +17,9 @@ It's perfect for
 - [How to Create Your Profile?](#how-to-create-your-profile)
 - [How to Customize Markdown files?](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
+- [How to Create Subfolders in your Repository?](#how-to-create-subfolders-in-your-repository)
+- [How to Upload Projects in your Repository?](#how-to-upload-projects-in-your-repository)
+- [How to Fork a Repository?](#how-to-fork-a-repository)
 
 _You can learn how to do this neat table of contents too! It's very easy. 😉_
 
@@ -27,6 +30,8 @@ Let's understand some of the alien terms that you will see on GitHub.
 `Repository/repo` means `folder`. It is similar to creating folders on your computer. Each repository represents one folder. You can create multiple repositories for different projects. 
 
 `README.md` is a default note, or summary that is usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything - so feel free to write it.
+
+`Fork` in layman means `copy + paste`. Let's say you want to make a copy of this guide, have access to it, and edit and play around with the codes. You can do it! Any changes made in your copy of the file would not be reflected in this guide. I'll teach you how to do it below.
 
 You do not need to download the GitHub Desktop for this. Your browser would do the job just fine. 🙂
 
@@ -124,6 +129,8 @@ To ensure that you retrieve the correct `(#xx-xx-xx)`:
 
 Do not include emojis in your title, otherwise the links in the table of contents would not work.
 
+_Psst_, the links in the table of contents do not work in `Preview`. You have to `Commit changes` in order to check if the links work.
+
 ### 🧱 Colour Code the Code Blocks
 
 If you've seen my [8 Week SQL Challenge repo](https://github.com/katiehuangx/8-Week-SQL-Challenge), I use colour codes for my SQL syntax. It's very easy to do and makes your syntax look professional too.
@@ -161,7 +168,7 @@ And, it's done. You have created your first repo! 😎
 
 *** 
 
-### Extra: How to Create Subfolders in your Repository?
+## How to Create Subfolders in your Repository?
 
 **Step 1: Navigate to the right side of the page. Click `Add File` and `Create New File`.**
 
@@ -171,7 +178,9 @@ And, it's done. You have created your first repo! 😎
 
 <kbd><img width="610" alt="Screenshot 2021-09-28 at 10 42 05 PM" src="https://user-images.githubusercontent.com/81607668/135110652-99d4b7da-9339-4324-b564-5d217bf4cfbd.png"></kbd>
 
-### Extra: How to Upload Projects in your Repository?
+***
+
+## How to Upload Projects in your Repository?
 
 **Step 1: Navigate to the right side of the page. Click `Add File` and `Upload File`.**
 
@@ -184,6 +193,26 @@ Once your file is uploaded completely, it will look like the one in my screensho
 <kbd><img width="1052" alt="Screenshot 2021-09-29 at 6 19 34 PM" src="https://user-images.githubusercontent.com/81607668/135250662-8d19c9b6-7b57-4e15-90da-efd174d5d8a0.png"></kbd>
 
 And, that's it! It's as simple as that!
+
+***
+
+## How to Fork a Repository?
+
+Let'say I'm checking out this awesome repo and I'm curious to see how he does the html and all the cool stuffs.
+
+<kbd><img width="1419" alt="Screenshot 2021-09-30 at 10 50 08 AM" src="https://user-images.githubusercontent.com/81607668/135378085-28f76e0e-9449-4bd9-8ceb-47a387b7788d.png"></kbd>
+
+**Step 1: Click on the `fork🍴` icon at the top right of the page**
+
+<kbd><img width="439" alt="Screenshot 2021-09-30 at 10 52 45 AM" src="https://user-images.githubusercontent.com/81607668/135378187-26b26415-d194-448b-aba7-9f54dc000b5e.png"></kbd>
+
+**Step 2: It's done!**
+
+GitHub has `forked` and copied the repo and added it as one of your repo. Now, you can edit the file and learn how to add those fancy, cool stuffs too!
+
+<kbd><img width="661" alt="Screenshot 2021-09-30 at 10 50 44 AM" src="https://user-images.githubusercontent.com/81607668/135378329-8d0df892-ed3e-466d-8fe8-3c912065179c.png"></kbd>
+
+Feel free to `fork` this guide and see how I've written it too! 😄🙌🏻
 
 ***
 
