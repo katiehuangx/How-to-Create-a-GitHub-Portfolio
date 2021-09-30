@@ -10,7 +10,7 @@ It's perfect for
 - A fun way to keep track of your projects.
 
 **Why I created this repo?**
-- I was once intimidated by GitHub myself. I signed up for an account in July and left it aside as I did not understand how it works.
+- I was once intimidated by GitHub myself. I signed up for an account in March and left it aside as I did not understand how it works.
 - Since then, I have learnt how to use it (I'm quite obsessed with writing in Markdowns 😆), so I would love to share this knowledge with everyone. 🙂
 
 ## Table of Contents
