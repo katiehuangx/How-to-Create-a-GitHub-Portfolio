@@ -33,7 +33,7 @@ Let's understand some of the alien terms that you will see on GitHub.
 
 📌 `Fork` in layman means `copy + paste`. Let's say you want to make a copy of this guide, have access to it, and edit and play around with the codes. You can do it! Any changes made in your copy of the file would not be reflected in this guide. I'll teach you how to do it below.
 
-You do not need to download the GitHub Desktop for this. Your browser would do the job just fine. 🙂
+You do not need to download the GitHub Desktop to set up your portfolio. Your browser would do the job just fine. 🙂
 
 ***
 
