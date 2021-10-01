@@ -27,11 +27,11 @@ _You can learn how to do this neat table of contents too! It's very easy. 😉_
 
 Let's understand some of the alien terms that you will see on GitHub.
 
-`Repository/repo` means `folder`. It is similar to creating folders on your computer. Each repository represents one folder. You can create multiple repositories for different projects. 
+📌 `Repository/repo` means `folder`. It is similar to creating folders on your computer. Each repository represents one folder. You can create multiple repositories for different projects. 
 
-`README.md` is a default note, or summary that is usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything - so feel free to write it.
+📌 `README.md` is a default note, or summary that is usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything - so feel free to write it.
 
-`Fork` in layman means `copy + paste`. Let's say you want to make a copy of this guide, have access to it, and edit and play around with the codes. You can do it! Any changes made in your copy of the file would not be reflected in this guide. I'll teach you how to do it below.
+📌 `Fork` in layman means `copy + paste`. Let's say you want to make a copy of this guide, have access to it, and edit and play around with the codes. You can do it! Any changes made in your copy of the file would not be reflected in this guide. I'll teach you how to do it below.
 
 You do not need to download the GitHub Desktop for this. Your browser would do the job just fine. 🙂
 
