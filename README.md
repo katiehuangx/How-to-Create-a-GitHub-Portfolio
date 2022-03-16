@@ -6,7 +6,7 @@ This is a **fuss-free, simple** guide to create your GitHub portfolio.
 
 It's perfect for
 - Beginners in data science who wants to showcase samples of work, or projects.
-- Serves as a digital resume and proof that you have the skills in your resume. 
+- Serves as a digital resume to show that you have the skills in your resume. 
 - A fun way to keep track of your projects.
 
 **Why I created this repo?**
