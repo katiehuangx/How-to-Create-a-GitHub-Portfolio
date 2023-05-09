@@ -77,7 +77,7 @@ For further reading, you can check out the following resources:
 
 GitHub's Markdown guides are comprehensive and easily understandable. Here are some resources to help you customize your Markdown files:
 
-- [GitHub's basic writing and formatting syntax]https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) provides a guide to customizing Markdown files.
+- [GitHub's basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) provides a guide to customizing Markdown files.
 - [GitHub's guide to organizing information with tables](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) teaches you how to create tables.
 - [GitHub's guide to creating and highlighting code blocks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) shows you how to highlight your SQL, Python, or other code blocks.
 - Bonus tip: You can add emojis 🌟🙌🏻🙋🏻‍♀️📚🌤🐶 to your profile by using the following shortcuts:
