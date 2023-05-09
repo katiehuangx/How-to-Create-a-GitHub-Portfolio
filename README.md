@@ -1,17 +1,15 @@
 # 📚 How to Create a GitHub Portfolio
 
-Hi there, I'm Katie! 🙋🏻‍♀️
-
-This is a **fuss-free, simple** guide to create your GitHub portfolio. 
+Hi, I'm Katie! 🙋🏻‍♀️ This is a **fuss-free** guide to create your GitHub portfolio. 
 
 It's perfect for
-- Beginners in data science who wants to showcase samples of work, or projects.
-- Serves as a digital resume to show that you have the skills in your resume. 
-- A fun way to keep track of your projects.
+- Beginners in data science looking to showcase samples of work, or projects.
+- Serves as a digital resume to demonstrate your technical skills. 
+- A fun way to track of your projects.
 
 **Why I created this repo?**
-- I was once intimidated by GitHub myself. I signed up in March, but left it aside as I did not understand how it works.
-- Since then, I have learnt how to use it (I'm quite obsessed with writing in Markdowns 😆), so I would love to share this knowledge with everyone. 🙂
+- I used to find GitHub intimidating. When I first signed up in March 2021, I didn't understand how it worked and ended up leaving it aside. 
+- However, since then, I've become quite obsessed with writing in Markdowns 😆 and have learned how to use it. Now, I'm excited to share this knowledge with everyone. 🙂
 
 ## Table of Contents
 - [How to Create Your Profile?](#how-to-create-your-profile)
@@ -21,78 +19,78 @@ It's perfect for
 - [How to Upload Projects in your Repository?](#how-to-upload-projects-in-your-repository)
 - [How to Fork a Repository?](#how-to-fork-a-repository)
 
-_You can learn how to do this neat table of contents too! It's very easy. 😉_
-
 ## Introduction 
 
-Let's understand some of the alien terms that you will see on GitHub.
+Let's start by understanding some of the terms you'll come across on GitHub:
 
-📌 `Repository/repo` means `folder`. It is similar to creating folders on your computer. Each repository represents one folder. You can create multiple repositories for different projects. 
+📌 `Repository` (or `repo` for short) means `folder`. It's similar to creating folders on your computer with each repository representing one folder. You can create multiple repositories for different projects. 
 
-📌 `README.md` is a default note, or summary that is usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything - so feel free to write it.
+📌 `README.md` is a default note or summary that's usually included in each repo. It acts as the "homepage" of your repo where you can introduce the project,  provide a summary, or anything else - so feel free to write it.
 
-📌 `Fork` in layman means `copy + paste`. Let's say you want to make a copy of this guide, have access to it, and edit and play around with the codes. You can do it! Any changes made in your copy of the file would not be reflected in this guide. I'll teach you how to do it below.
+📌 `Fork` means `copy + paste` in layman's terms. Let's say you want to make a copy of this guide, have access to it, and edit and play around with the codes. You can do it! Any changes you made in your copy of the file won't be reflected in this guide. I'll show you how to do it below.
 
-You do not need to download the GitHub Desktop to set up your portfolio. Your browser would do the job just fine. 🙂
+You don't need to download the GitHub Desktop to set up your portfolio. Your browser will do the job just fine. 🙂
 
 ***
 
-## How to Create Your Profile?
+## How to Create Your Profile on GitHub?
 
-**Are you interested in creating a Profile that appears on your GitHub homepage, _like mine_?**
+Interested in creating a personalized profile that appears on your GitHub homepage, just like mine? Follow these simple steps:
 
 <kbd><img width="1203" alt="Screenshot 2021-09-28 at 9 26 28 PM" src="https://user-images.githubusercontent.com/81607668/135101992-9590fe01-fbbf-4c5e-9092-f0eed8114334.png"></kbd>
 
-**Step 1: Click on `+` and `New Repository` at top right of the page.**
+**Step 1: Click on `+` sign and select `New Repository` at the top right corner of the page.**
 
 <kbd><img width="257" alt="image" src="https://user-images.githubusercontent.com/81607668/135068335-12538e85-8090-4f27-8232-47bfcc15b2c2.png"></kbd>
 
-**Step 2: Create a new repository with the _exact name as your username_.**
+**Step 2: Create a new repository with the _exact same name as your username_.**
 
-My username is "**katiehuangx**", so I created a new repository named "**katiehuangx**". This repository will contain the write-up of your profile.
+For instance, my GitHub username is "**katiehuangx**", so I created a new repository named "**katiehuangx**". This repository will contain the write-up of your profile.
 
 <kbd><img width="741" alt="Screenshot 2021-09-28 at 6 15 33 PM" src="https://user-images.githubusercontent.com/81607668/135102196-6eeea30a-a874-4fb3-a4f6-25db97d6c825.png"></kbd>
 
-The format of the file is `Markdown (.md)`. Its default name is `README.md`, so you can leave it as that. 
+The file format for the profile is `Markdown (.md)`. By default, the name of the file is `README.md`, so you can leave it as it is. 
 
 <kbd><img width="720" alt="Screenshot 2021-09-28 at 6 18 40 PM" src="https://user-images.githubusercontent.com/81607668/135102549-9bc47d7f-d803-4cc2-a8a2-361c900a6b96.png"></kbd>
 
-**Step 3: To edit your Profile or Markdown file, hover over the `pencil ✏️` icon on your right and click `Edit this file`.**
+**Step 3: To edit your Profile or Markdown file, click on the pencil `✏️` icon on your right and select `Edit this file`.**
 
 <kbd><img width="354" alt="Screenshot 2021-09-28 at 10 29 37 PM" src="https://user-images.githubusercontent.com/81607668/135107847-f86bef5c-2f26-4942-9de2-104c446825e1.png"></kbd>
 
-**Now you can start to write your profile! 😄 Once you're happy with the contents, scroll down and click `Commit changes`.**
+Now, start writing your profile! 😄 Once you're done, scroll down and click `Commit changes`.
 
-### 📝 What to write in your profile?
+### 📝 What to write in Your Profile?
 
-It's entirely up to you and your creativity! Most people would include:
-- An introduction of yourself
-- Skills like Data Analysis, SQL, Python, Tableau, Web Development, etc
-- Fancier things like visitor count, clickable icons, etc (can't help you with this as I've not learn it yet 😅)
-- Projects that you're proud of
+To create an engaging profile, you can include the following elements:
+- A brief introduction of yourself.
+- Your skills, such as data analysis, SQL, Python, Tableau, web development, etc.
+- Advanced features like visitor counts, clickable icons, etc. (Note: you may need to do some research to learn how to implement these features)
+- Your projects that you're proud of
 
-For further reading, check out:
-- [GitHub Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) - Detailed guide on creating your profile
-- Get some inspiration from [this post](https://github.com/abhisheknaiidu/awesome-github-profile-readme) for awesome GitHub profiles.
+For further reading, you can check out the following resources:
+- [GitHub's guide on managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) provides a detailed guide on creating your profile.
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) offers great examples of awesome GitHub profiles to help inspire your creativity.
 
 ***
 
 ## How to Customize Markdown files?
 
-GitHub's Markdown guides are excellent and comprehensive enough, yet easily understandable. This is where I learn to customize mine too. 🙂
+GitHub's Markdown guides are comprehensive and easily understandable. Here are some resources to help you customize your Markdown files:
 
-- How to customize Markdown files - [Github Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- How to create tables - [GitHub Organizing information with tables](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-- How to colour code your SQL, Python, etc code blocks (This is my favourite part!) - [GitHub Creating and highlighting code blocks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
-- **Bonus tip**: How to add emojis? 🌟🙌🏻🙋🏻‍♀️📚🌤🐶
+- [GitHub's basic writing and formatting syntax]https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) provides a guide to customizing Markdown files.
+- [GitHub's guide to organizing information with tables](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) teaches you how to create tables.
+- [GitHub's guide to creating and highlighting code blocks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) shows you how to highlight your SQL, Python, or other code blocks.
+- Bonus tip: You can add emojis 🌟🙌🏻🙋🏻‍♀️📚🌤🐶 to your profile by using the following shortcuts:
   - For Windows: Windows logo key + . (period)
   - For Mac: Control + Command + Spacebar
 
-### 🌌 Add Images
+### 🌌 To Add Images
 
-Normally what I would do is take a screenshot, or download the image. 
+Here's how I add an image to a Markdown file:
 
-Then, I **copy the image file** and **paste in the Markdown file** itself. Give it around 3-5 seconds to load the image. 
+1. Take a screenshot or download the image. 
+
+2. Copy the image file and paste it in the Markdown file. Wait for 3-5 seconds to let the image load. 
 
 <kbd><img width="619" alt="image" src="https://user-images.githubusercontent.com/81607668/135247149-4cddb744-cc6e-4b20-92fa-fd768da95d7f.png"></kbd>
 
@@ -104,13 +102,14 @@ Then, I **copy the image file** and **paste in the Markdown file** itself. Give 
 
 <kbd><img width="1099" alt="image" src="https://user-images.githubusercontent.com/81607668/135276620-e8212cea-cccc-4532-969a-241f107b459b.png"></kbd>
 
-**Click `Preview` to check your newly uploaded image.**
+4. Use the `<kbd>` tag to display the image in a framed box.
+5. Click on the `Preview` button to check the newly uploaded image.
 
 <kbd><img width="476" alt="Screenshot 2021-09-29 at 5 58 48 PM" src="https://user-images.githubusercontent.com/81607668/135276747-73e27341-bfcf-4b32-9a8f-92deedc067c5.png"></kbd>
 
-### 📚 Add Table of Contents
+### 📚 To Add a Table of Contents
 
-Below is the code block for my table of contents. 
+To add a table of contents, the following code block can be used:
 
 ````
 ## Table of Contents
@@ -119,21 +118,27 @@ Below is the code block for my table of contents.
 - [How to Create New Repository?](#how-to-create-new-repository)
 ````
 
-To ensure that you retrieve the correct `(#xx-xx-xx)`:
 
-**Click on the chain logo beside your title. Right click and open in new tab.**
+Note that the links in the table of contents may not work in Preview. You need to Commit changes to check if the links work.
+
+
+To get the correct `(#xx-xx-xx)` for each section:
+
+**Click on the chain logo next to the section title, right-click and open in new tab.**
 <img width="508" alt="Screenshot 2021-09-29 at 6 04 22 PM" src="https://user-images.githubusercontent.com/81607668/135248350-9ba54965-863e-4408-8e02-eb8cd596c2a8.png">
 
-**Navigate to the website link and scroll all the way to the end and copy the highlighted `##xx-xx-xx`.**
+**Then, navigate to the website link, scroll to the end, and copy the highlighted `##xx-xx-xx`.**
 <img width="678" alt="Screenshot 2021-09-29 at 6 04 57 PM" src="https://user-images.githubusercontent.com/81607668/135248359-2ed3ea2e-2a8b-4f07-8f7c-80b053d42497.png">
 
-Do not include emojis in your title, otherwise the links in the table of contents would not work.
+Ensure that emojis are not included in the title, as they may cause issues with the links in the table of contents.
 
-_Psst_, the links in the table of contents do not work in `Preview`. You have to `Commit changes` in order to check if the links work.
+Note that the links in the table of contents may not work in `Preview`. You need to `Commit changes` to check if the links work.
 
 ### 🧱 Colour Code the Code Blocks
 
-If you've seen my [8 Week SQL Challenge repo](https://github.com/katiehuangx/8-Week-SQL-Challenge), I use colour codes for my SQL syntax. It's very easy to do and makes your syntax look professional too.
+If you've seen my [8 Week SQL Challenge repo](https://github.com/katiehuangx/8-Week-SQL-Challenge), I use colour codes to highlight my SQL syntax. It's a simple technique, but it can make your code look much more professional.
+
+To use color codes in your code blocks, follow these steps:
 
 ````
 ```sql -- Add 3 backticks followed by sql
