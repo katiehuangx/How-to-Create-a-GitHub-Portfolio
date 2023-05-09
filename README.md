@@ -84,6 +84,8 @@ GitHub's Markdown guides are comprehensive and easily understandable. Here are s
   - For Windows: Windows logo key + . (period)
   - For Mac: Control + Command + Spacebar
 
+***
+
 ### 🌌 To Add Images
 
 Here's how I add an image to a Markdown file:
@@ -106,6 +108,8 @@ Here's how I add an image to a Markdown file:
 5. Click on the `Preview` button to check the newly uploaded image.
 
 <kbd><img width="476" alt="Screenshot 2021-09-29 at 5 58 48 PM" src="https://user-images.githubusercontent.com/81607668/135276747-73e27341-bfcf-4b32-9a8f-92deedc067c5.png"></kbd>
+
+***
 
 ### 📚 To Add a Table of Contents
 
@@ -133,6 +137,8 @@ To get the correct `(#xx-xx-xx)` for each section:
 Ensure that emojis are not included in the title, as they may cause issues with the links in the table of contents.
 
 Note that the links in the table of contents may not work in `Preview`. You need to `Commit changes` to check if the links work.
+
+***
 
 ### 🧱 Colour Code the Code Blocks
 
